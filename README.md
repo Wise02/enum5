@@ -57,7 +57,7 @@
 ## Usage
 
 ```bash
-./enum5.sh [options] <domain-or-URL>
+./enum5.sh --verbose [options] <domain-or-URL>
 ```
 
 ### Options
@@ -75,8 +75,8 @@
 ### Examples
 
 ```bash
-./enum5.sh example.com
-./enum5.sh --no-screenshots --threads 20 --timeout 60 example.com
+./enum5.sh --verbose example.com
+./enum5.sh --verbose --no-screenshots --threads 20 --timeout 60 example.com
 ```
 
 ## Output
