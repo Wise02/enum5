@@ -32,7 +32,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/enum5.sh.git
+   git clone https://github.com/Wise02/enum5.git
    cd enum5.sh
    ```
 
